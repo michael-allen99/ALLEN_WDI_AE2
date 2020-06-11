@@ -49,6 +49,18 @@ Using the design inspiration from UX Toast, and the results gained from the prio
 
 ![Survey Results 3](./documentationImages/SurveyResults3.png)
 
+A survey was completed surrounding this design with feedback from 23 respondents and consisted of seven questions.
+
+| Question | Type |
+|----------|------|
+|How do you find the overall layout of the design in terms of navigational ease? (1 - Poor, 5 - Excellent)|Score
+|What was your favourite aspect of the design?|Comment
+|What was your least favourite aspect of the design?|Comment
+|If you would change one thing, what would it be?|Comment
+|What was your first thought or emotion when seeing the design?|Comment
+|Do you have any other comments regarding the design?|Comment
+
+
 ### Phase One - Medium Fidelity V1
 
 
