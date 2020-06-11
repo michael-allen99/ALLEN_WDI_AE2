@@ -85,6 +85,32 @@ The emotion triggered in the users when accessing the design for the first time 
 > "Finally, everything is simple and in one place. I don't have to go around various links and pages to get to what I need." - Anonymous respondent
 
 ### Phase Two - Medium Fidelity V2
+Based on the feedback gained during testing phase one, some focus points were produced to improve the design further.
+
+* Change the order that tabs are displayed with most important at the top
+* Make the boxes different sizes to add more interest to the screen
+* Remove the "Profile" button on the dashboard, as the page is accessible via the navigation
+* Ensure margin and padding are consistent throughout the design.
+
+With these changes in mind, the following medium-fidelity designs were created. Some colour was added into this design, however, it was not an area of focus during the user testing.
+
+![Design Phase Two](./documentationImages/Design2.png)
+
+When conducting testing for these designs, the same questions that were asked in the first survey were repeated in this one. This allowed me to gain an understanding of the improvements or potential areas that had been made worse between phase one and phase two. 
+
+The six questions within the survey were conducted with 24 respondents.
+
+This iteration of the design scored 4.3 stars for the navigation ease of the design, a slight decrease from the previous iteration by 0.2 stars. When respondents were questioned about their favourite aspect of the design, the majority of responses were within the following topics:
+
+* Clear navigation
+* Easy to understand the structure
+* Use of different sized boxes for hierarchy
+* Content strategy, with the most important features being displayed at the top
+
+> "I'd find everything incredibly easy to navigate which I think is a positive bonus in comparison to some university apps I have seen in the past. I think it's also incredibly clear and it would be really handy being able to access assignment deadlines and existing results in the manner that is presented on this." - Anonymous respondent
+
+A common answer for respondent's least favourite feature of the design was the size of the navigation icons being too large, as well as two respondents commenting that the use of a back arrow in the header was obsolete, due to being able to access the dashboard easier from the footer navigation.
+
 
 ### Phase Three - High Fidelity V1
 
