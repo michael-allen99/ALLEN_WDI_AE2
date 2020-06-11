@@ -25,10 +25,34 @@ My initial design inspiration for my first phase of design was [UX Toast](https:
 ![uxToast](./documentationImages/UXToast.png)
 Image from [UX Toast](https://www.uxtoast.com)
 
+Another aspect I particularly enjoyed with UX Toast's website design is the use of a gradient background overlayed upon an image, and is something I used heavily as inspiration within my high fidelity wireframes.
 
+### Creating Designs
 
+Designs for the application were created in [Figma](https://www.figma.com), an online prototyping tool which allows designers to develop interactive prototypes which can be tested showing the intended flow and navigation of the final application once implemented. Before reaching the final designs, three phases were iterated through, starting with medium fidelity. After each phase, feedback was gained through user testing and this feedback was implemented into the next design phase. It took two phases of medium fidelity designs before the layout and navigation was fully successful, and a further iteration of high fidelity design to test the colour, typography and legibility of the design. There was some subtle changes made between phase three and the implementation based on the high fidelity testing.
+
+Before phase one of design testing commenced, an initial survey was conducted in order to gain an insight into the areas in which students are currently under-served within university portal applications. This survey identified three areas in which students feel need improving within their current university portal.
+
+* Accessing a list of all their current grades
+* Accessing a list of all upcoming deadlines
+* Viewing a campus map
+
+These conclusions were drawn by 77.5% of respondents suggesting that out of a list of features, they would find either results and feedback or a campus map highlighting specific areas to be of the most use.
+
+![Prior Survey Results](./documentationImages/SurveyResults1.png)
+
+In addition to this, 60% of students responded "No" to the question "Within your current institution, do you find it easy to access a to-do that displays all upcoming deadlines?"
+
+![Prior Survey Results 2](./documentationImages/SurveyResults2.png)
+
+Using the design inspiration from UX Toast, and the results gained from the prior survey, the below medium fidelity designs were created.
+
+![Survey Results 3](./documentationImages/SurveyResults3.png)
 
 ### Phase One - Medium Fidelity V1
+
+
+
 
 ### Phase Two - Medium Fidelity V2
 
