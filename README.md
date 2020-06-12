@@ -1,4 +1,4 @@
-## Solent Portal Redesign for Web Design for Industry
+## Solent Portal Redesign for Web Design for Industry by Michael Allen
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
