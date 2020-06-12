@@ -1,7 +1,7 @@
 # WDI Documentation - Michael Allen
 
 ## Introduction
-
+This project explores the current shortcomings in the current university portal application and aims to produce a redesign based on these findings to further improve the fit of these applications towards user needs. Using an Agile Methodology, three design iterations were created with user testing being conducted after each stage to further improve the design before finally implementing the prototype into a single page web application using React.
 
 ## Methodology
 
@@ -150,7 +150,7 @@ When asked about respondents favourite aspect of the design, common answers incl
 * The ease of navigation and use of the application design
 * Colour Scheme
 
-A lot of respondents answered N/A for their least favourite aspect of the application, however one common answer was in contradiction to those that said they liked the red colour scheme. A lot of people seemed to be against it, stating that it represents danger or doesn't seem professional for an educational application.  Going forward into the final implementation, the colour scheme was kept as red to fit into Solent's current colour scheme, however it should be noted that within a fully functioning prototype, functionality to allow for universities to add their branding and colour schemes to the application could be implemented.
+A lot of respondents answered N/A for their least favourite aspect of the application, however, one common answer was in contradiction to those that said they liked the red colour scheme. A lot of people seemed to be against it, stating that it represents danger or doesn't seem professional for an educational application.  Going forward into the final implementation, the colour scheme was kept as red to fit into Solent's current colour scheme, however, it should be noted that within a fully functioning prototype functionality to allow for universities to add their branding and colour schemes to the application could be implemented.
 
 ## Implementation
 
@@ -161,3 +161,5 @@ To navigate between different page views, React's Router was used within app.js.
 ![Routing in React](./documentationImages/Routing.png)
 
 The final implementation is available to download via [GitHub here](https://github.com/michael-allen99/ALLEN_WDI_AE2)
+
+![Final Implementation Screens](./documentationImages/finalscreens.png)
